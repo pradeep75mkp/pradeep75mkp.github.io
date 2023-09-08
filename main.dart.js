@@ -82281,7 +82281,7 @@ $S:0}
 A.akK.prototype={
 $0(){var s=window
 s.toString
-B.bS.kT(s,"https:wa.me/918446646947","WhatsApp")},
+B.bS.kT(s,"https://api.whatsapp.com/send/?phone=918446646947","WhatsApp")},
 $S:0}
 A.akL.prototype={
 $0(){var s=window
